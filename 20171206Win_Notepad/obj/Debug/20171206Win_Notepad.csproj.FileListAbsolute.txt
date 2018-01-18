@@ -1,0 +1,10 @@
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\bin\Debug\20171206Win_Notepad.exe.config
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\bin\Debug\20171206Win_Notepad.exe
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\bin\Debug\20171206Win_Notepad.pdb
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\20171206Win_Notepad.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\_20171206Win_Notepad.Form1.resources
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\_20171206Win_Notepad.Properties.Resources.resources
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\20171206Win_Notepad.csproj.GenerateResource.Cache
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\20171206Win_Notepad.exe
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\20171206Win_Notepad.pdb
+E:\MPD_20172018\20171206Win_Notepad\20171206Win_Notepad\obj\Debug\_20171206Win_Notepad.AboutBox1.resources
